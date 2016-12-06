@@ -1,0 +1,31 @@
+{
+  "name": "dictionary-compressor",
+  "version": "0.0.1",
+  "description": "Learning base compression depends on word usage and creating code dictionary",
+  "main": "index.js",
+  "keywords": [
+    "compression",
+    "compressor",
+    "code",
+    "codebook",
+    "json",
+    "dictionary-coder"
+  ],
+  "dependencies": {
+    "escape-string-regexp": "^1.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "eslint-config-google": "^0.7.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-istanbul": "^1.1.1",
+    "gulp-mocha": "^3.0.1",
+    "should": "^11.1.1"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Ali Khoramshahi",
+  "license": "ISC"
+}
