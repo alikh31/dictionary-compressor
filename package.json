@@ -1,6 +1,6 @@
 {
   "name": "dictionary-compressor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Learning base compression depends on word usage and creating code dictionary",
   "main": "index.js",
   "keywords": [
