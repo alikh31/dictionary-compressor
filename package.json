@@ -11,6 +11,10 @@
     "json",
     "dictionary-coder"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alikh31/dictionary-compressor.git"
+  },
   "dependencies": {
     "escape-string-regexp": "^1.0.5"
   },
